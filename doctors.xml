@@ -93,8 +93,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="djunkovskaya" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="djunkovskaya" group_id="1"> 
                 <name>Джунковская Наталья Васильевна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/dgunkovskaya</url><!--URL карточки врача. -->
@@ -123,8 +123,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="drobisheva" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="drobisheva" group_id="1"> 
                 <name>Дробышева Яна Сергеевна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/drobysheva</url><!--URL карточки врача. -->
@@ -152,8 +152,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-						<offer id="ermak" group_id="1"> 
+            </offer></offers>
+					<offers>	<offer id="ermak" group_id="1"> 
                 <name>Ермак Михаил Юрьевич</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/ermak</url><!--URL карточки врача. -->
@@ -181,8 +181,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="zharova" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="zharova" group_id="1"> 
                 <name>Жарова Нина Александровна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/zharova</url><!--URL карточки врача. -->
@@ -211,8 +211,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="kotelina" group_id="1"> 
+            </offer><offers>
+	    </offers><offer id="kotelina" group_id="1"> 
                 <name>Котелина Ольга Игоревна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/kotelina</url><!--URL карточки врача. -->
@@ -241,8 +241,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="kuzmin" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="kuzmin" group_id="1"> 
                 <name>Кузьмин Артем Сергеевич</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/kuzmin</url><!--URL карточки врача. -->
@@ -271,8 +271,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="lebedev" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="lebedev" group_id="1"> 
                 <name>Лебедев Валентин Валерьевич</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/lebedev</url><!--URL карточки врача. -->
@@ -301,8 +301,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="morozov" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="morozov" group_id="1"> 
                 <name>Морозов Владислав Сергеевич</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/morozov</url><!--URL карточки врача. -->
@@ -331,8 +331,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="morozov" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="morozov" group_id="1"> 
                 <name>Морозов Владислав Сергеевич</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/morozov</url><!--URL карточки врача. -->
@@ -361,8 +361,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="prilepina" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="prilepina" group_id="1"> 
                 <name>Прилепина Ирина Николаевна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/prilepina</url><!--URL карточки врача. -->
@@ -391,8 +391,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="soldatova" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="soldatova" group_id="1"> 
                 <name>Солдатова Ирина Ивановна	</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/soldatova</url><!--URL карточки врача. -->
@@ -421,8 +421,8 @@
                 <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
                 <param name="Онлайн-расписание">true</param>
                 <param name="Телефон для записи">+7 (495) 255−50−11</param> <!--Можно подменник аггрегатора-->
-            </offer>
-			<offer id="tolstihina" group_id="1"> 
+            </offer></offers>
+			<offers><offer id="tolstihina" group_id="1"> 
                 <name>Толстихина Наталья Борисовна</name> <!--ФИО, именно в таком порядке-->
                 <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
                 <url>https://cimtgradient.ru/tolstihina</url><!--URL карточки врача. -->
